@@ -1,3 +1,3 @@
 CMSC 137
 
-##Data Communications and Networking
+Data Communications and Networking
